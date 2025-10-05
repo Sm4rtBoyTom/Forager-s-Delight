@@ -3,7 +3,7 @@
 Forager's Delight is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
-### Forager's Delight mod add small (customizable) carry weight buff to some clothing items. 
+### Forager's Delight mod adds small (customizable) carry weight buff to some clothing items. 
 #### Mod allows for much more interesting clothing combination which would not be previously used and makes some less used clothing items more viable.
 
 ### Additional Carrying Capacity Calculations 
