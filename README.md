@@ -3,6 +3,12 @@
 Forager's Delight is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
+## Mod Support
+
+#### - Camping Tools by [Jods-Its](https://github.com/Jods-Its/Jods-Camping-Tools). 
+#### - Nomad's Expedition by [Maple-Sapling](https://github.com/Maple-Sapling/NomadsExpedition). 
+#### - Northfolk Clothing Pack by [Waltz](https://github.com/HAHAYOUDEAD/NorthfolkClothingPack). 
+
 ### Forager's Delight mod adds small (customizable) carry weight buff to some clothing items. 
 #### Mod allows for much more interesting clothing combination which would not be previously used and makes some less used clothing items more viable.
 
