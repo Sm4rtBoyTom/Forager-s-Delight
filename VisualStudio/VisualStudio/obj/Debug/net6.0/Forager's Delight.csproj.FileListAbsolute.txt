@@ -1,0 +1,24 @@
+D:\Modding\Forager's Delight\obj\Debug\net6.0\Forager's Delight.csproj.AssemblyReference.cache
+D:\Modding\Forager's Delight\obj\Debug\net6.0\Forager's Delight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Forager's Delight\obj\Debug\net6.0\Forager's Delight.csproj.CoreCompileInputs.cache
+D:\Modding\Forager's Delight\bin\Debug\net6.0\Forager's Delight.deps.json
+D:\Modding\Forager's Delight\bin\Debug\net6.0\Forager's Delight.dll
+D:\Modding\Forager's Delight\obj\Debug\net6.0\Forager's Delight.dll
+D:\Modding\Forager's Delight\obj\Debug\net6.0\refint\Forager's Delight.dll
+D:\Modding\Forager's Delight\obj\Debug\net6.0\ref\Forager's Delight.dll
+D:\Modding\ARCHIVED OR SCRAPPED MOD\Forager's Delight - Archived (Working with issues)\bin\Debug\net6.0\Forager's Delight.deps.json
+D:\Modding\ARCHIVED OR SCRAPPED MOD\Forager's Delight - Archived (Working with issues)\bin\Debug\net6.0\Forager's Delight.dll
+D:\Modding\ARCHIVED OR SCRAPPED MOD\Forager's Delight - Archived (Working with issues)\obj\Debug\net6.0\Forager's Delight.csproj.AssemblyReference.cache
+D:\Modding\ARCHIVED OR SCRAPPED MOD\Forager's Delight - Archived (Working with issues)\obj\Debug\net6.0\Forager's Delight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\ARCHIVED OR SCRAPPED MOD\Forager's Delight - Archived (Working with issues)\obj\Debug\net6.0\Forager's Delight.csproj.CoreCompileInputs.cache
+D:\Modding\ARCHIVED OR SCRAPPED MOD\Forager's Delight - Archived (Working with issues)\obj\Debug\net6.0\Forager's Delight.dll
+D:\Modding\ARCHIVED OR SCRAPPED MOD\Forager's Delight - Archived (Working with issues)\obj\Debug\net6.0\refint\Forager's Delight.dll
+D:\Modding\ARCHIVED OR SCRAPPED MOD\Forager's Delight - Archived (Working with issues)\obj\Debug\net6.0\ref\Forager's Delight.dll
+D:\Modding\Forager's Delight - needs fix Harmony patches instead of gearprefab\bin\Debug\net6.0\Forager's Delight.deps.json
+D:\Modding\Forager's Delight - needs fix Harmony patches instead of gearprefab\bin\Debug\net6.0\Forager's Delight.dll
+D:\Modding\Forager's Delight - needs fix Harmony patches instead of gearprefab\obj\Debug\net6.0\Forager's Delight.csproj.AssemblyReference.cache
+D:\Modding\Forager's Delight - needs fix Harmony patches instead of gearprefab\obj\Debug\net6.0\Forager's Delight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Forager's Delight - needs fix Harmony patches instead of gearprefab\obj\Debug\net6.0\Forager's Delight.csproj.CoreCompileInputs.cache
+D:\Modding\Forager's Delight - needs fix Harmony patches instead of gearprefab\obj\Debug\net6.0\Forager's Delight.dll
+D:\Modding\Forager's Delight - needs fix Harmony patches instead of gearprefab\obj\Debug\net6.0\refint\Forager's Delight.dll
+D:\Modding\Forager's Delight - needs fix Harmony patches instead of gearprefab\obj\Debug\net6.0\ref\Forager's Delight.dll
