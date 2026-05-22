@@ -1,4 +1,4 @@
-# Forager-s-Delight
+# Forager's Delight
 
 Forager's Delight is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).
