@@ -5,12 +5,12 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
 ## Mod Support
 
-#### - Camping Tools by [Jods-Its](https://github.com/Jods-Its/Jods-Camping-Tools). 
-#### - Nomad's Expedition by [Maple-Sapling](https://github.com/Maple-Sapling/NomadsExpedition). 
-#### - Northfolk Clothing Pack by [Waltz](https://github.com/HAHAYOUDEAD/NorthfolkClothingPack). 
+ -  **Camping Tools by [Jods-Its](https://github.com/Jods-Its/Jods-Camping-Tools).**
+ -  **Nomad's Expedition by [Maple-Sapling](https://github.com/Maple-Sapling/NomadsExpedition).**
+ -  **Northfolk Clothing Pack by [Waltz](https://github.com/HAHAYOUDEAD/NorthfolkClothingPack).**
 
 ### Forager's Delight mod adds small (customizable) carry weight buff to some clothing items. 
-#### Mod allows for much more interesting clothing combination which would not be previously used and makes some less used clothing items more viable.
+ **Mod allows for much more interesting clothing combination which would not be previously used and makes some less used clothing items more viable.**
 
 ### Additional Carrying Capacity Calculations 
 | Type of Clothing  | Type of pocket | Amount of additional weight |
@@ -26,13 +26,9 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c73b3879-0918-4ce2-aa8d-0417461ed955" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/989ffe3c-9b80-4860-bcc6-31685f6432d2" />
 
-
-
 ### Installation
 
-- **Install** [[ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.0)] **and it's dependencies.**
+- **Install [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.0) and it's dependencies.**
 
 - **Drop the** **.dll** **file into your mods folder**.
 - **Enjoy**!
-
-- This mod was made using [ModTemplate](https://github.com/Arkhorse/TLD-Mod-Template) By [TheIllusion](https://github.com/Arkhorse)
