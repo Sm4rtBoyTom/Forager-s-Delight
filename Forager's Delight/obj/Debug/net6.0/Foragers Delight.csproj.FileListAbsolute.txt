@@ -1,0 +1,16 @@
+D:\Modding\My MODS\Forager's Delight\bin\Debug\net6.0\Foragers Delight.deps.json
+D:\Modding\My MODS\Forager's Delight\bin\Debug\net6.0\Foragers Delight.dll
+D:\Modding\My MODS\Forager's Delight\obj\Debug\net6.0\Foragers Delight.csproj.AssemblyReference.cache
+D:\Modding\My MODS\Forager's Delight\obj\Debug\net6.0\Foragers Delight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\My MODS\Forager's Delight\obj\Debug\net6.0\Foragers Delight.csproj.CoreCompileInputs.cache
+D:\Modding\My MODS\Forager's Delight\obj\Debug\net6.0\Foragers Delight.dll
+D:\Modding\My MODS\Forager's Delight\obj\Debug\net6.0\refint\Foragers Delight.dll
+D:\Modding\My MODS\Forager's Delight\obj\Debug\net6.0\ref\Foragers Delight.dll
+D:\Modding\My MODS\Incomplete Mods\Forager's Delight\bin\Debug\net6.0\Foragers Delight.deps.json
+D:\Modding\My MODS\Incomplete Mods\Forager's Delight\bin\Debug\net6.0\Foragers Delight.dll
+D:\Modding\My MODS\Incomplete Mods\Forager's Delight\obj\Debug\net6.0\Foragers Delight.csproj.AssemblyReference.cache
+D:\Modding\My MODS\Incomplete Mods\Forager's Delight\obj\Debug\net6.0\Foragers Delight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\My MODS\Incomplete Mods\Forager's Delight\obj\Debug\net6.0\Foragers Delight.csproj.CoreCompileInputs.cache
+D:\Modding\My MODS\Incomplete Mods\Forager's Delight\obj\Debug\net6.0\Foragers Delight.dll
+D:\Modding\My MODS\Incomplete Mods\Forager's Delight\obj\Debug\net6.0\refint\Foragers Delight.dll
+D:\Modding\My MODS\Incomplete Mods\Forager's Delight\obj\Debug\net6.0\ref\Foragers Delight.dll
