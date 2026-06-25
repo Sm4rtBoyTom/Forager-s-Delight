@@ -8,6 +8,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
  -  **Camping Tools by [Jods-Its](https://github.com/Jods-Its/Jods-Camping-Tools).**
  -  **Nomad's Expedition by [Maple-Sapling](https://github.com/Maple-Sapling/NomadsExpedition).**
  -  **Northfolk Clothing Pack by [Waltz](https://github.com/HAHAYOUDEAD/NorthfolkClothingPack).**
+ -  **Clothing Expanded [MooseMeat](https://github.com/moosemeat817/ClothingExpanded).**
 
 ### Forager's Delight mod adds small (customizable) carry weight buff to some clothing items. 
  **Mod allows for much more interesting clothing combination which would not be previously used and makes some less used clothing items more viable.**
